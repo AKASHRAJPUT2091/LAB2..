@@ -1,6 +1,7 @@
 # flutter_calculation
 
 A new Flutter project.
+I took help from my friend Dushyant Bali in the main.dart file I also made some changes with the help of AI in some files.
 
 Overview
 
